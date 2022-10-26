@@ -2,6 +2,10 @@
 
 Vet-Clinic is A relational database using POSTGRESQL to create the initial data structure for a vet clinic. It contains related data about animals, animals' owners, clinic employees, and visits.
 
+## Schema Diagram
+
+![Schema](https://user-images.githubusercontent.com/105021348/198080687-72b85a95-3cce-474d-b8cd-0bf8967167e5.png)
+
 
 ## Getting Started
 
